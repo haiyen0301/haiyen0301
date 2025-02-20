@@ -1,11 +1,12 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Hai Yen</h1>
 <h3 align="center">A passionate Copy Writer and web developer from VN</h3>
 
 - 🔭 I’m currently working on **Facebook Marketing**
-
-- 📫 How to reach me **lehaiyen@gmail.com**
+- 🎵 Enjoy listening to *music*
+- 🎬 Love watching *movies*
+- 📚 Enthusiastic *reader*
+- 🏃‍♂️ Run **3 km** every morning
+- ✍️ I'm Work as a **freelance content writer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
