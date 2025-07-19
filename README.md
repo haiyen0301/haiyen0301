@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hai Yen</h1>
-<h3 align="center">A passionate Copy Writer and web developer from VN</h3>
+<h1 align="center">Hi, I'm Hai Yen 👋</h1>
+<h3 align="center">A passionate Copy Writer and web developer</h3>
 
 - 🔭 I’m currently working on **Facebook Marketing**
 - 🎵 Enjoy listening to *music*
